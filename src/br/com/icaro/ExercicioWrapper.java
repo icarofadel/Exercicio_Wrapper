@@ -6,8 +6,8 @@ public class ExercicioWrapper {
 		int idade = 10;
 		System.out.println(idade);
 		
-		long idade1 = idade;
-		System.out.println(idade1);
+		Integer idade1 = idade;
+		System.out.println(idade1);	
 	}
 
 }
